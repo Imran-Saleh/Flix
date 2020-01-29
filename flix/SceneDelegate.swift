@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  flix
 //
-//  Created by Kay Lab on 1/21/20.
+//  Created by Imran on 1/21/20.
 //  Copyright © 2020 Imran. All rights reserved.
 //
 

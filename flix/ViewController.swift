@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  flix
 //
-//  Created by Kay Lab on 1/21/20.
+//  Created by Imran on 1/21/20.
 //  Copyright © 2020 Imran. All rights reserved.
 //
 
@@ -12,7 +12,6 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
 
